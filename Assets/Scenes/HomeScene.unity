@@ -194,6 +194,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StarsignRow
       objectReference: {fileID: 0}
+    - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -438,18 +442,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6277973661821160180, guid: 0c2069f11d03c4238a416f4082e28208, type: 3}
       propertyPath: m_text
-      value: 'WIZARDS are armed with unparalleled arcane might. Give them enough
-        time to cast their spells, and they''re unstoppable.
-
-
-        WILL: +5
-
-        MIGHT:
-        -2
-
-        CANT: +0
-
-'
+      value: "WIZARDS lust for arcane power. They are ruthless and near-unstoppable
+        - but a sword in the gut will be their end. \n\nWILL: +5\nMIGHT: -2\nCANT:
+        +0\n"
       objectReference: {fileID: 0}
     - target: {fileID: 7452160547702426869, guid: 0c2069f11d03c4238a416f4082e28208, type: 3}
       propertyPath: m_text
@@ -1419,7 +1414,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
@@ -1903,6 +1898,10 @@ PrefabInstance:
     - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Name
       value: FaithRow
+      objectReference: {fileID: 0}
+    - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
@@ -2403,6 +2402,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TraumaRow
       objectReference: {fileID: 0}
+    - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2515,7 +2518,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
@@ -3080,6 +3083,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AgeRow
       objectReference: {fileID: 0}
+    - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -3341,6 +3348,10 @@ PrefabInstance:
     - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Name
       value: SpeciesRow
+      objectReference: {fileID: 0}
+    - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
@@ -3722,7 +3733,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
@@ -4205,7 +4216,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4600641577123656095, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8309782698244270516, guid: 2a7e09c81b5604fc1a8f38bcf973c146, type: 3}
       propertyPath: m_Pivot.x
@@ -4444,7 +4455,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1001 &2060644326061586643
 PrefabInstance:
   m_ObjectHideFlags: 0
